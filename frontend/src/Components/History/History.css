@@ -1,0 +1,82 @@
+.history {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+}
+
+.history h3 {
+    margin-top: 0;
+}
+
+.history-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #444;
+}
+
+.history-expression {
+    color: #aaa;
+}
+
+.history-result {
+    margin-top: 4px;
+    font-size: 18px;
+}
+
+.history-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clear-history-button {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: #444;
+    color: white;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.clear-history-button:hover {
+    background-color: #555;
+}
+
+.history-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #444;
+    cursor: pointer;
+}
+
+.history-item:hover {
+    background-color: #2a2a2a;
+}
+
+.history-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #444;
+    cursor: pointer;
+}
+
+.history-content {
+    flex: 1;
+}
+
+.delete-history-button {
+    margin-left: 10px;
+    padding: 5px 8px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #aaa;
+    cursor: pointer;
+}
+
+.delete-history-button:hover {
+    background-color: #555;
+    color: white;
+}

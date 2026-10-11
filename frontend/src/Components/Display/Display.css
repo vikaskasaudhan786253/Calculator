@@ -1,0 +1,23 @@
+.display {
+    margin-bottom: 20px;
+    padding: 20px;
+
+    background-color: #120d0d;
+    border-radius: 10px;
+
+    text-align: right;
+}
+
+.expression {
+    min-height: 20px;
+
+    font-size: 18px;
+    color: white;
+}
+
+.result {
+    min-height: 45px;
+
+    font-size: 32px;
+    color: #ffffff;
+}

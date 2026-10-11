@@ -1,0 +1,9 @@
+.keypad {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.equals-button .calculator-button {
+    width: 100%;
+}
